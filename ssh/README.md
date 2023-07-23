@@ -1,4 +1,6 @@
-# SSH Connection and RSA Key Pair Setup
+# SSH
+
+## SSH Connection and RSA Key Pair Setup
 
 ## Table of Contents
 - [General Information](#general-information)
