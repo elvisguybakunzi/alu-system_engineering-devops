@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # Configure UFW to forward port 8080/TCP to port 80/TCP
 
 # Allow incoming traffic on port 8080
